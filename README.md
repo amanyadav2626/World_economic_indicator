@@ -1,2 +1,24 @@
-# World_economic_indicator
- Exploring the Global Economic Landscape: This project delves into an in-depth analysis of key world economic indicators encompassing GDP, inflation rates, employment trends, trade balances, and other vital metrics. Through meticulous research and data analysis, this endeavor aims to unveil significant correlations, patterns, and impacts of these indicators on regional and global economies. The findings will offer valuable insights into understanding economic trends, facilitating informed decision-making for businesses, policymakers, and stakeholders in an ever-evolving global marketplace.
+# World Economic Indicator Research
+
+## Overview
+This project conducts comprehensive research on key global economic indicators including GDP, inflation rates, employment trends, and trade balances. The goal is to uncover trends and correlations impacting world economies.
+
+## Features
+- Analyzes diverse economic indicators
+- Identifies correlations and patterns
+- Offers insights for businesses and policymakers
+
+## Usage
+1. Clone the repository.
+2. Access the data analysis files.
+
+## Contributors
+- Aman Kumar
+
+## Acknowledgments
+- 
+
+## License
+This project is licensed under MIT License. See the LICENSE file for details.
+
+---
